@@ -21,23 +21,19 @@ I am a Unix-like system administrator  from Russia.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 
-
 <div>
-
-	<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg " title="Debian " alt="Debian " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/almalinux/almalinux-original-wordmark.svg" title="almalinux" alt="almalinux " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg " title="AWK " alt="AWK " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg " title=" Apache" alt="Apache" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg " title="AWS " alt="AWS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg " title="confluence
- " alt="confluence" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original-wordmark.svg " title="CPanel " alt="CPanel " width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg " title="Debian " alt="Debian " width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/almalinux/almalinux-original-wordmark.svg" title="almalinux" alt="almalinux " width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg " title="AWK " alt="AWK " width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg " title=" Apache" alt="Apache" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg " title="AWS " alt="AWS" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg " title="confluence " alt="confluence" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original-wordmark.svg " title="CPanel " alt="CPanel " width="80" height="80"/>
    
-    <img src=" " title=" " alt=" " width="80" height="80"/>&nbsp;
-	 <img src=" " title=" " alt=" " width="80" height="80"/>&nbsp;
+    <img src=" " title=" " alt=" " width="80" height="80"/>
+	 <img src=" " title=" " alt=" " width="80" height="80"/>
 </div>
-
 
 
 
