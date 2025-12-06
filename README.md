@@ -23,7 +23,7 @@ I am a Unix-like system administrator  from Russia.
 
 
 
-<div>
+<div align="Center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg " title="Debian " alt="Debian " width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins " width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>  
@@ -37,6 +37,7 @@ I am a Unix-like system administrator  from Russia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg  "  title="Git"  alt="Git " width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg " title="GitLab " alt="GitLab " width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg " title="Helm " alt="Helm " width="40" height="40"/>
+</br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg " title="Grafana " alt="Grafana " width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes " alt="Kubernetes " width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title=" " alt=" " width="40" height="40"/>
