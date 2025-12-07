@@ -8,9 +8,9 @@ I am a Unix-like system administrator  from Russia.
 
 - :telescope: I’m working as a System administrator .
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: In my free time, I visit technical forums and portals..
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 
 
 ### 🧰  Стек применяемых технологий
