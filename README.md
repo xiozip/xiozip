@@ -16,7 +16,9 @@ I am a Unix-like system administrator  from Russia.
 ### 🧰  Стек применяемых технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,linux,bash,vim,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,aws,gcp,azure,python,pytorch,tensorflow,sklearn,ai,fastapi,nodejs,npm,java,spring,maven,prometheus,grafana,elasticsearch,redis," />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redhat,linux,bsd,debian,ubuntu,windows,vim,bash,npm,perl,php,py,bootstrap,nginx,devto,kubernetes,docker,terraform,ansible,jenkins,aws,git,githubactions,gitlab,mysql,postgres,grafana,elasticsearch,prometheus,stackoverflow&theme=dark" />
+  </a>
 </p>
 
 
