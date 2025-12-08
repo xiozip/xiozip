@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://github.com/xiozip/xiozip/blob/main/bk.jpg"/>
+<img src="https://github.com/xiozip/xiozip/bk.jpg"/>
 </div>
 Приветствую Вас!<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 I am a Unix-like system administrator  from Russia.
 
