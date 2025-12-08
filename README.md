@@ -21,7 +21,7 @@
   </a>
 </p>
 
-
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </br></br></br>
 <img src="https://komarev.com/ghpvc/?username=xiozip&style=flat-square&color=green" alt=""/>
