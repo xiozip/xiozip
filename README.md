@@ -9,7 +9,7 @@
 
 - :man_technologist: I’m working as a System administrator .
 - :technologist: In my free time, I visit technical forums and portals.
-- :headphones: :notes: I don't like music in this style Deep & Chill focus mix
+- :headphones: :notes: I like music in this style Deep & Chill focus mix
 
 
 ### Мои обязанности:
