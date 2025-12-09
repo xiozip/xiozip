@@ -2,16 +2,16 @@
 <img src="https://github.com/xiozip/xiozip/blob/main/bk.jpg"/>
 </div>
 
-## Приветствую Вас! в моём профиле GITHUB
+# Приветствую Вас! в моём профиле GITHUB
 
 
-## I am a Unix-like system administrator  from Russia.
+### I am a Unix-like system administrator  from Russia.
 
 - :man_technologist: I’m working as a System administrator .
 - :technologist: In my free time, I visit technical forums and portals.
 
 
-## Мои обязанности:
+### Мои обязанности:
 
 - :briefcase: Оптимизация работы сервисов, устранение уязвимостей, обновление компонентов;
 - :briefcase: Внедрение новых решений, устранение проблем с уже развернутыми;
@@ -19,7 +19,7 @@
 - :briefcase: Написание документации по развертыванию инфраструктуры и использованию программных решений;
 - :briefcase: Составление скриптов по автоматизации обслуживания и резервного копирования серверов и установленного ПО
 
-##  Стек применяемых технологий
+###  Стек применяемых технологий
 
 <p align="center">
   <a href="https://skillicons.dev">
