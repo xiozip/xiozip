@@ -21,6 +21,9 @@
   </a>
 </p>
 
+## График моей активности в GITHUB
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiozip&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br></br></br>
 <img src="https://komarev.com/ghpvc/?username=xiozip&style=flat-square&color=green" alt=""/>
