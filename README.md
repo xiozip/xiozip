@@ -28,7 +28,7 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiozip&theme=github-compact&custom_title=График%20моей%20%20активности%20%20в%20%20GITHUB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiozip&theme=github-compact&custom_title=График%20моей%20%20активности%20%20в%20%20GITHUB&hide_border=true&grid=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 		
 		
 		
