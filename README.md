@@ -26,32 +26,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redhat,linux,bsd,debian,ubuntu,windows,vim,bash,npm,perl,php,py,bootstrap,nginx,devto,kubernetes,docker,terraform,ansible,jenkins,aws,git,githubactions,gitlab,mysql,postgres,grafana,elasticsearch,prometheus,stackoverflow&theme=dark" />
   </a>
-</p>
-
-  /$$$$$$                       /$$$$$$        /$$               /$$          
- /$$__  $$                     /$$__  $$      | $$              |__/          
-| $$  \__/ /$$   /$$  /$$$$$$$| $$  \ $$  /$$$$$$$ /$$$$$$/$$$$  /$$ /$$$$$$$ 
-|  $$$$$$ | $$  | $$ /$$_____/| $$$$$$$$ /$$__  $$| $$_  $$_  $$| $$| $$__  $$
- \____  $$| $$  | $$|  $$$$$$ | $$__  $$| $$  | $$| $$ \ $$ \ $$| $$| $$  \ $$
- /$$  \ $$| $$  | $$ \____  $$| $$  | $$| $$  | $$| $$ | $$ | $$| $$| $$  | $$
-|  $$$$$$/|  $$$$$$$ /$$$$$$$/| $$  | $$|  $$$$$$$| $$ | $$ | $$| $$| $$  | $$
- \______/  \____  $$|_______/ |__/  |__/ \_______/|__/ |__/ |__/|__/|__/  |__/
-           /$$  | $$                                                          
-          |  $$$$$$/                                                          
-           \______/                                                           
- /$$$$$$$                        /$$$$$$                     
-| $$__  $$                      /$$__  $$                    
-| $$  \ $$  /$$$$$$  /$$    /$$| $$  \ $$  /$$$$$$   /$$$$$$$
-| $$  | $$ /$$__  $$|  $$  /$$/| $$  | $$ /$$__  $$ /$$_____/
-| $$  | $$| $$$$$$$$ \  $$/$$/ | $$  | $$| $$  \ $$|  $$$$$$ 
-| $$  | $$| $$_____/  \  $$$/  | $$  | $$| $$  | $$ \____  $$
-| $$$$$$$/|  $$$$$$$   \  $/   |  $$$$$$/| $$$$$$$/ /$$$$$$$/
-|_______/  \_______/    \_/     \______/ | $$____/ |_______/ 
-                                         | $$                
-                                         | $$                
-                                         |__/                
-
-	
+</p>	
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiozip&theme=github-compact&custom_title=График%20моей%20%20активности%20%20в%20%20GITHUB&hide_border=true&grid=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 		
