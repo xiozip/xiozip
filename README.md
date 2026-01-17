@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redhat,linux,bsd,debian,ubuntu,windows,vim,bash,npm,perl,php,py,bootstrap,nginx,devto,kubernetes,docker,terraform,ansible,jenkins,aws,git,githubactions,gitlab,mysql,postgres,grafana,elasticsearch,prometheus,stackoverflow&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=zabbix,redhat,linux,bsd,debian,ubuntu,windows,vim,bash,npm,perl,php,py,bootstrap,nginx,devto,kubernetes,docker,terraform,ansible,jenkins,aws,git,githubactions,gitlab,mysql,postgres,grafana,elasticsearch,prometheus,stackoverflow&theme=dark" />
   </a>
 </p>	
 
