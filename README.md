@@ -6,7 +6,6 @@
 
 
 ### I am a Unix-like system administrator  from Russia.
-
 - :man_technologist: I’m working as a System administrator .
 - :technologist: In my free time, I visit technical forums and portals.
 - :headphones: :notes: I like music in this style Deep & Chill & DJ Timecop1983
