@@ -12,9 +12,10 @@ jobs:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           message: |
-            ${{ github.actor }} created commit:
-            Commit message: ${{ github.event.commits[0].message }}
+            ${{ github.actor }} создал коммит:
+            Сообщение: ${{ github.event.commits[0].message }}
             
-            Repository: ${{ github.repository }} ${{github.event.name}}
+            Репозиторий: ${{ github.repository }} ${{github.event.name}}
+            Операционная система:${{ runner.os }}
             
-            See changes: https://github.com/commit/${{ github.sha }}
+            Посмотреть подробности: https://github.com/${{ github.repository }}/commit/${{ github.sha }}
